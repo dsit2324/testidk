@@ -1,9 +1,1 @@
-# testidk
-balls
-jhgjhgjh
-hjkhj
-dgdfgdf
-yoyoyyooyoyoyooyooyoyoyoyoyoyooyooyooyoyooyooyooyoyooyooyooyo
-
-
-gdsfgdf
+Jmenuji se Dominik Svoboda, ve svém volném čase pravidelně navštěvuji posilovnu a občas zhlédnu nějaký ten film, nebo si zahraju nějakou tu hru. Tuto školu jsem si vybral, protože jsem nevěděl, co po základce a tohle mi přišlo jako nejlepší možnost. Momentálně toho celkem lituju, protože nerozumím probíranému učivu.
