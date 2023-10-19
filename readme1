@@ -1,0 +1,4 @@
+Příkazy co jsem se dnes v OS naučil:
+1. git push - Pošle zadanou větev na server.
+2. git clone - Vytvoří kopii existujícího gitového repozitáře.
+3. git add - Je v něm uvedená cesta buď k souboru nebo k adresáři.
